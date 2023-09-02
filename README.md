@@ -1,9 +1,11 @@
+![My Headshot](https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/assets/143552050/cbad75cf-9c5d-4002-859c-0171240a24de)
+
 # Resume
 
 
 # Lavanya Mogulla
    lavanyamogulla03@gmail.com | +1(618)-527-2410 | www.linkedin.com/in/lavanya-mogulla/ 
-![My Headshot](https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/assets/143552050/cbad75cf-9c5d-4002-859c-0171240a24de)
+
 
 ## EDUCATION
 #### University of Maryland Baltimore County, Baltimore, MD.                                                                (Aug 2022 - May 2024)         
