@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # ResumeE
+=======
+# RESUME
+
+<img src="https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/assets/143552050/cbad75cf-9c5d-4002-859c-0171240a24de" width="200" height="200" alt="My Headshot">
+
+
+>>>>>>> 8673f4b6f4b84acdfc62edeefef13c9f7aa4e25e
 # Lavanya Mogulla
    lavanyamogulla03@gmail.com | +1(618)-527-2410 | www.linkedin.com/in/lavanya-mogulla/ 
+
 
 ## EDUCATION
 #### University of Maryland Baltimore County, Baltimore, MD.                                                                (Aug 2022 - May 2024)         
@@ -12,19 +21,19 @@ Bachelor of Technology, Information Technology.
 Coursework : C, Java, Data Structures, Python, Probability, Statistics.
 
 ## SKILLS
-Languages : Python, R, Java, C++,  C, HTML.                             
-Databases : MS SQL Server, My SQL Workbench, Oracle SQL Developer, Hive QL.  
-Data Visualization Tools : Tableau, MS Excel, Power BI.   
-Tools : Salesforce, Informatica, Visual Studio, Jupyter Notebook, PyCharm.
+- Languages : Python, R, Java, C++,  C, HTML.                             
+- Databases : MS SQL Server, My SQL Workbench, Oracle SQL Developer, Hive QL.  
+- Data Visualization Tools : Tableau, MS Excel, Power BI.   
+- Tools : Salesforce, Informatica, Visual Studio, Jupyter Notebook, PyCharm.
 
 ## WORK HISTORY 
 #### Programmer Analyst - Cognizant Technology Solutions, Hyderabad.                                                     (July 2021 - July 2022)  
-1. Worked in a Salesforce domain and successfully contributed to key projects that yielded a best-of-breed.  
-2. Efficiently operated baby systems to assess real-time data and used discretion and good judgment when it came to using company materials and supplies.  
-3. Defined goals of the system and devised flow charts and diagrams describing logical operational steps of programs.
+- Worked in a Salesforce domain and successfully contributed to key projects that yielded a best-of-breed.  
+- Efficiently operated baby systems to assess real-time data and used discretion and good judgment when it came to using company materials and supplies.  
+- Defined goals of the system and devised flow charts and diagrams describing logical operational steps of programs.
 
 #### Data Analyst Intern - Nuronics Labs, Hyderabad.                                                                      (May 2019 - Aug 2019)  
-1. Automation of Data Pre-Processing : Worked on development of a Data Processing Accelerator (DPA), where DPA will automate the process of Data Pre- processing. 2. This DPA is a part of the workbench initiative which will reduce Data Scientists and Data Analysts effort by around 70%.
+- Automation of Data Pre-Processing : Worked on development of a Data Processing Accelerator (DPA), where DPA will automate the process of Data Pre- processing. This DPA is a part of the workbench initiative which will reduce Data Scientists and Data Analysts effort by around 70%.
 
 ## PROJECTS
 #### Suspicious Activity Detection Using Deep Learning In Secure Assisted Living.  
@@ -37,6 +46,6 @@ With my developing interest in tackling real-world problems, I chose a machine l
 Developed a  website using HTML, JS, Flask  which demonstrates mathematical calculations of projective geometry and we can solve the basic questions of geometry.
 
 ## ACCOMPLISHMENTS
-Instructed students in STEM subjects as an educator at STEMtree Fairfax, promoting a passion for science and technology during summer break.  
-Published an International Journal in IJCRT on the project “Suspicious Activity Detection Using Deep Learning In Secure Assisted Living” which is based on Machine Learning and AI technologies.  
-Participated in CSHACK2020, a government-sponsored hackathon event in the Healthcare and Biomedical devices domain.
+- Instructed students in STEM subjects as an educator at STEMtree Fairfax, promoting a passion for science and technology during summer break.  
+- Published an International Journal in IJCRT on the project “Suspicious Activity Detection Using Deep Learning In Secure Assisted Living” which is based on Machine Learning and AI technologies.  
+- Participated in CSHACK2020, a government-sponsored hackathon event in the Healthcare and Biomedical devices domain.
