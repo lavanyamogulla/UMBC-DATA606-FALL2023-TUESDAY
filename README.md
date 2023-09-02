@@ -1,6 +1,8 @@
 # Resume
 # Lavanya Mogulla
    lavanyamogulla03@gmail.com | +1(618)-527-2410 | www.linkedin.com/in/lavanya-mogulla/ 
+
+   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 ## EDUCATION
 #### University of Maryland Baltimore County, Baltimore, MD.                                                                (Aug 2022 - May 2024)         
 Master’s of Professional Studies, Data Science.   
