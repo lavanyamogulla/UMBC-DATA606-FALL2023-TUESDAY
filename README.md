@@ -2,7 +2,7 @@
 # Lavanya Mogulla
    +1(618)-527-2410     |       lavanyamogulla03@umbc.edu
 ## EDUCATION
-University of Maryland Baltimore County, Baltimore, MD                                                             Aug 2022 - May 2024         
+University of Maryland Baltimore County, Baltimore, MD                                                                                   Aug 2022 - May 2024         
 Master’s of Professional Studies, Data Science.   
 Coursework : Introduction to Data Science, Data Management, Machine Learning, Big Data Analytics
 
