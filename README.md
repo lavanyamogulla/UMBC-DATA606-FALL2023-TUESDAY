@@ -1,4 +1,4 @@
-# Resume
+# ResumeE
 # Lavanya Mogulla
    lavanyamogulla03@gmail.com | +1(618)-527-2410 | www.linkedin.com/in/lavanya-mogulla/ 
 
