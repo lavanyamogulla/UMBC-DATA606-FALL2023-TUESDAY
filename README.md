@@ -1,7 +1,7 @@
 
 # RESUME
 
-<img src="https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Lavanya_Headshot.jpg" width="200" height="200" alt="My Headshot">
+<img src="https://github.com/lavanyamogulla/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Lavanya_Headshot.jpg" width="170" height="200" alt="My Headshot">
 
 
 # Lavanya Mogulla
