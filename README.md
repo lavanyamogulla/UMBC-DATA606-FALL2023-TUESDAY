@@ -4,7 +4,6 @@
 ## EDUCATION
 University of Maryland Baltimore County, Baltimore, MD                                                             Aug 2022 - May 2024         
 Master’s of Professional Studies, Data Science.
-
 Coursework : Introduction to Data Science, Data Management, Machine Learning, Big Data Analytics
 
 Sreenidhi Institute of Science and Technology, Hyderabad, India                                                    July 2017 -  May 2021 
