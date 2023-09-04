@@ -5,9 +5,8 @@
 
 
 # Lavanya Mogulla
- [Gmail] | +1(618)-527-2410 | [Linkedin]
+ lavanyamogulla03@gmail.com | +1(618)-527-2410 | [Linkedin]
  
-[Gmail]: lavanyamogulla03@gmail.com 
 [Linkedin]: https://www.linkedin.com/in/lavanya-mogulla/
 
 ## EDUCATION
