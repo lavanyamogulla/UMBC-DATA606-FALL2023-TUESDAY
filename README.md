@@ -5,9 +5,10 @@
 
 
 # Lavanya Mogulla
-   lavanyamogulla03@gmail.com | +1(618)-527-2410 | [linkedin]
-   
-[linkedin]: https://www.linkedin.com/in/lavanya-mogulla/
+ [Gmail] | +1(618)-527-2410 | [Linkedin]
+ 
+[Gmail]: lavanyamogulla03@gmail.com 
+[Linkedin]: https://www.linkedin.com/in/lavanya-mogulla/
 
 ## EDUCATION
 #### University of Maryland Baltimore County, Baltimore, MD.                                                                (Aug 2022 - May 2024)         
